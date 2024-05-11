@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PolkaQSR7vaaEVEECWSXzkP6GRo5QTURJxrcD/wCGBI5vdjikj/EpsJEpWkvUqsu0K1a1zVaigYd3hh8lrUFHg==",
+  "dgSpecHash": "/If847qaaqwr0xzXpfCTKzQBVGp5tIww5oDKJaIf+DKmpAjB/Vd8/+UfSRdtKRQ8gTsOly6uJqBhaBmQuCqtiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arman\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Arman\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

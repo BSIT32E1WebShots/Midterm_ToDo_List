@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using ToDo.Services;
+﻿using ToDo.Services;
 using ToDo.Repository;
 using ToDo.Domain;
+using Microsoft.AspNetCore.Mvc;
 
 public class ToDoController : Controller
 {

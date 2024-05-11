@@ -1518,6 +1518,21 @@
             "rid": "win"
           }
         }
+      },
+      "ToDo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.4",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4"
+        },
+        "compile": {
+          "bin/placeholder/ToDo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDo.Domain.dll": {}
+        }
       }
     }
   },
@@ -4127,6 +4142,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ToDo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ToDo.Domain/ToDo.Domain.csproj",
+      "msbuildProject": "../ToDo.Domain/ToDo.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4134,7 +4154,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.InMemory >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
+      "ToDo.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4143,11 +4164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
       "projectName": "ToDo.Repositories",
-      "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+      "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
       "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4163,7 +4184,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

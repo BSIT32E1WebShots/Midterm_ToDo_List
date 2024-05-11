@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj": {}
+    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj": {
+    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj",
         "projectName": "ToDo.Domain",
-        "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj",
         "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arman\\AppData\\Roaming\\NuGet\\NuGet.Config",

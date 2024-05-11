@@ -1,0 +1,6 @@
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.csproj.AssemblyReference.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.AssemblyInfoInputs.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.AssemblyInfo.cs
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\ToDo.Services\obj\Debug\net8.0\ToDo.Services.sourcelink.json

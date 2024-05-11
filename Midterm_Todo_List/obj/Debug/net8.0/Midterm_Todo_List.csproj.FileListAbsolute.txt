@@ -1,0 +1,9 @@
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.csproj.AssemblyReference.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.AssemblyInfoInputs.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.AssemblyInfo.cs
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.RazorAssemblyInfo.cache
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.RazorAssemblyInfo.cs
+C:\Users\Arman\Documents\GitHub\Midterm_ToDo_List\Midterm_Todo_List\obj\Debug\net8.0\Midterm_Todo_List.sourcelink.json
