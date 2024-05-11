@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Midterm_Todo_List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cfcc962d3c1c303d291034a1e9a5248aeaeb4c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+490cb6a5e339d92d37f65d3c2ff86b8932580b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Midterm_Todo_List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Midterm_Todo_List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
