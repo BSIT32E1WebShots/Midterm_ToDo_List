@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C47C41F-7398-4C48-8A4A-E56876DB7E79}|ToDo.Repositories\\ToDo.Repositories.csproj|c:\\users\\arman\\documents\\github\\midterm_todo_list\\todo.repositories\\repositories\\categorystaticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C47C41F-7398-4C48-8A4A-E56876DB7E79}|ToDo.Repositories\\ToDo.Repositories.csproj|solutionrelative:todo.repositories\\repositories\\categorystaticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47C41F-7398-4C48-8A4A-E56876DB7E79}|ToDo.Repositories\\ToDo.Repositories.csproj|c:\\users\\arman\\documents\\github\\midterm_todo_list\\todo.repositories\\todo.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C47C41F-7398-4C48-8A4A-E56876DB7E79}|ToDo.Repositories\\ToDo.Repositories.csproj|solutionrelative:todo.repositories\\todo.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{802F4744-0311-4CFB-9B62-67E9A86C78B9}|ToDo.Domain\\ToDo.Domain.csproj|c:\\users\\arman\\documents\\github\\midterm_todo_list\\todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{802F4744-0311-4CFB-9B62-67E9A86C78B9}|ToDo.Domain\\ToDo.Domain.csproj|solutionrelative:todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryStaticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\Repositories\\CategoryStaticRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.Repositories\\Repositories\\CategoryStaticRepository.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\Repositories\\CategoryStaticRepository.cs",
+              "RelativeToolTip": "ToDo.Repositories\\Repositories\\CategoryStaticRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:52:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ToDo.Repositories",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+              "RelativeDocumentMoniker": "ToDo.Repositories\\ToDo.Repositories.csproj",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+              "RelativeToolTip": "ToDo.Repositories\\ToDo.Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T10:51:10.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ToDo.Domain\\AppDbContext.cs",
@@ -30,18 +64,17 @@
               "RelativeToolTip": "ToDo.Domain\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T10:44:38.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T10:44:38.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ToDo.Domain",
+              "DocumentIndex": 2,
+              "Title": "ToDo.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj",
               "RelativeDocumentMoniker": "ToDo.Domain\\ToDo.Domain.csproj",
               "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Domain\\ToDo.Domain.csproj",
               "RelativeToolTip": "ToDo.Domain\\ToDo.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-11T10:44:26.637Z",
               "EditorCaption": ""
