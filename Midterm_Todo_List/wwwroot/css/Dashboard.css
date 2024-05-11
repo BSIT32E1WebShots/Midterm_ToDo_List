@@ -1,0 +1,76 @@
+/* Apply general styles to the dashboard container */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 60px;
+}
+
+/* Style the header */
+h2 {
+    margin-top: 0;
+
+}
+
+/* Style the "Create New" button in the header cell */
+.table th.create-new {
+    text-align: center; /* Align the button to the right */
+}
+
+    .table th.create-new a {
+        display: inline-block;
+        padding: 15px 20px;
+        color: #fff;
+        background-color: #007bff;
+        border: 5px solid #007bff;
+        border-radius: 4px;
+        text-decoration: none;
+    }
+
+        .table th.create-new a:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+/* Style the table */
+.table {
+    width: 100%;
+}
+
+    /* Style table header */
+    .table th {
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        text-align: center;
+        padding: 8px;
+    }
+
+    /* Style table rows */
+    .table td {
+        border: 1px solid #dee2e6;
+        padding: 8px;
+    }
+
+/* Style Done badge */
+.badge {
+    font-size: 12px;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
+
+.badge-success {
+    background-color: #28a745;
+}
+
+.badge-warning {
+    background-color: #ffc107;
+}
+
+/* Style action buttons */
+.btn-info, .btn-danger {
+    margin-right: 5px;
+}
+
+/* Align the btn-primary to the right */
+.btn-primary {
+    float: right;
+}

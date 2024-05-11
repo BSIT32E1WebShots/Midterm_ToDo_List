@@ -4143,11 +4143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\ToDo.Repositories.csproj",
       "projectName": "ToDo.Repositories",
-      "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\ToDo.Repositories.csproj",
+      "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\ToDo.Repositories.csproj",
       "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arman\\AppData\\Roaming\\NuGet\\NuGet.Config",

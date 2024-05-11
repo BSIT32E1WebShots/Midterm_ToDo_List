@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Services\\ToDo.Services.csproj": {}
+    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Services\\ToDo.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Services\\ToDo.Services.csproj": {
+    "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Services\\ToDo.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Services\\ToDo.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Services\\ToDo.Services.csproj",
         "projectName": "ToDo.Services",
-        "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Services\\ToDo.Services.csproj",
+        "projectPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Services\\ToDo.Services.csproj",
         "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo_List\\ToDo.Services\\obj\\",
+        "outputPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arman\\AppData\\Roaming\\NuGet\\NuGet.Config",

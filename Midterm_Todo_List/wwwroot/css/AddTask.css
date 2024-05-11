@@ -1,0 +1,39 @@
+/* AddTask.css */
+
+.form-group {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically within the group */
+}
+
+    .form-group .control-label {
+        width: 120px; /* Adjust width as needed */
+    }
+
+/* Style the "Back to List" button */
+.back-to-list-button,
+.submit-button {
+    color: #fff;
+    padding: 8px 16px; /* Adjust padding as needed */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.back-to-list-button {
+    background-color: #007bff;
+    border: 1px solid #007bff;
+}
+
+    .back-to-list-button:hover {
+        background-color: deepskyblue;
+    }
+
+.submit-button {
+    background-color: #007bff;
+    border: 1px solid #28a745;
+    margin-right: 10px;
+}
+
+    .submit-button:hover {
+        background-color: deepskyblue; /* Darker green color */
+    }
