@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +67,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Program.cs",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Program.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Program.cs",
+              "RelativeToolTip": "Midterm_Todo_List\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:32:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\appsettings.Development.json",
+              "RelativeToolTip": "Midterm_Todo_List\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T11:31:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:31:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:30:00.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:29:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:28:39.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:28:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Midterm_Todo_List\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T11:28:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Midterm_Todo_List\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:27:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Midterm_Todo_List\\Controllers\\HomeController.cs",
@@ -43,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Midterm_Todo_List\\wwwroot\\js\\site.js",
@@ -51,12 +204,11 @@
               "RelativeToolTip": "Midterm_Todo_List\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-11T11:23:53.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T11:23:53.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ToDo.Domain\\AppDbContext.cs",
@@ -68,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ToDo.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj",
               "RelativeDocumentMoniker": "ToDo.Domain\\ToDo.Domain.csproj",
@@ -76,8 +228,7 @@
               "RelativeToolTip": "ToDo.Domain\\ToDo.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T10:44:26.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T10:44:26.637Z"
             }
           ]
         },

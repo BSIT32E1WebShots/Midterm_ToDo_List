@@ -1,4 +1,4 @@
-namespace Midterm_Todo_List.Models
+namespace Midterm_ToDoLists.Models
 {
     public class ErrorViewModel
     {
