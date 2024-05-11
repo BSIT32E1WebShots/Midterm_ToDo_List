@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\midterm_todo_list\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{25918E64-0888-4878-8D38-24DC29F8E1D6}|Midterm_Todo_List\\Midterm_Todo_List.csproj|solutionrelative:midterm_todo_list\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{802F4744-0311-4CFB-9B62-67E9A86C78B9}|ToDo.Domain\\ToDo.Domain.csproj|c:\\users\\arman\\documents\\github\\midterm_todo._list\\todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{802F4744-0311-4CFB-9B62-67E9A86C78B9}|ToDo.Domain\\ToDo.Domain.csproj|solutionrelative:todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Midterm_Todo_List\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:24:42.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Midterm_Todo_List\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\Midterm_Todo_List\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Midterm_Todo_List\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-11T11:23:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ToDo.Domain\\AppDbContext.cs",
@@ -34,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ToDo.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\Midterm_ToDo._List\\ToDo.Domain\\ToDo.Domain.csproj",
               "RelativeDocumentMoniker": "ToDo.Domain\\ToDo.Domain.csproj",

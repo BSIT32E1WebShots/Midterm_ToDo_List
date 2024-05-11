@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Midterm_Todo_List.Models;
+using Midterm_ToDoLists.Models;
 using System.Diagnostics;
 
-namespace Midterm_Todo_List.Controllers
+namespace Midterm_ToDoLists.Controllers
 {
     public class HomeController : Controller
     {
